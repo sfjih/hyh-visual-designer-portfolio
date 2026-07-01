@@ -1,0 +1,10 @@
+<svg width="1000" height="760" viewBox="0 0 1000 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="760" fill="none"/>
+  <ellipse cx="510" cy="688" rx="370" ry="42" fill="#1B1B1B" opacity=".16"/>
+  <path d="M120 191c0-35 28-63 63-63h182c22 0 42 11 54 30l33 50h365c35 0 63 28 63 63v84H120V191Z" fill="#F2F3ED" stroke="#202020" stroke-width="18"/>
+  <path d="M95 312c5-51 48-90 99-90h604c54 0 99 43 100 97l8 251c1 58-45 106-103 106H179c-58 0-104-49-98-107l14-257Z" fill="#FFE430" stroke="#202020" stroke-width="18"/>
+  <path d="M141 352h718" stroke="#202020" stroke-width="14" stroke-linecap="round"/>
+  <path d="M170 444h210M170 500h140M665 528h133" stroke="#202020" stroke-width="14" stroke-linecap="round"/>
+  <rect x="611" y="402" width="211" height="82" rx="12" fill="#F7F8F3" stroke="#202020" stroke-width="12"/>
+  <text x="643" y="456" fill="#202020" font-family="Impact, sans-serif" font-size="42" letter-spacing="2">WORKS</text>
+</svg>
